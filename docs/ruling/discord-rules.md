@@ -27,7 +27,7 @@ It is important to follow the rules outlined in this article but to also abide b
 - Respect personnel, no matter their status, position, or entitlements. Failure to abide: *[30-Minute Mute > 1-Hour Mute > 1-Day Ban > Ban]*
 - Content that discriminates against race, sexual orientation, sex, gender, religion, or other characteristics of an individual/group will not be tolerated. Failure to abide: *[30-Minute Mute > 1-Hour Mute > 1-Day Ban > Ban]*
 - Do not share content with malicious intentions. Examples include, but are not limited to: Malware, Personal/Private Data (without owner's explicit consent), Gore, Nudity, Pornography, Client Crashing. Failure to abide: *[Ban]*
-- Do not share risqué content. This refers to content that is slightly indecent or liable to shock, especially by being sexually suggestive. Failure to abide: *[10-Minute Mute > 1-Hour Mute > 1-Day Ban > Ban]*
+- Do not share risqué content. This refers to content that is slightly indecent or liable to shock, especially by being sexually suggestive. Failure to abide: *[30-Minute Mute > 1-Hour Mute > 1-Day Ban > Ban]*
 - Do not advertise invitations for other services. This includes, but is not limited to: Discord Servers, Roblox Groups. Failure to abide: *[Warning > Ban]*
 - Do not troll or intentionally encourage toxicity such as "flame-wars" by posting inflammatory content to provoke individuals. Failure to abide: *[10-Minute Mute > 1-Hour Mute > 1-Day Ban > Ban]*
 - Do not harass others. Examples include, but are not limited to: The continuous disturbance of another user by threatening, shaming, or shutting-down comments. Failure to abide: *[[Warning > 1-Day Ban > Ban] / Ban]*
